@@ -1,7 +1,8 @@
 # GitIntro
-Resources and materials for Intro to Unix and Git workshop at the Data Science Institute
+Resources and materials for Intro to Unix and Git workshop at the [Data Science Institute](https://ohsulibrary-datascienceinstitute.github.io/)
 
 ## Class Materials
+* [Syllabus](https://docs.google.com/document/d/1KDG-TYoJTSvvgyr94mIlMtB9HVZWxBMI4uuIiN6PFqI/edit?usp=sharing)
 * [Introduction PPT](https://drive.google.com/open?id=1PyJeh-_nbzZ9e99ZoCDgvAdukpnMP0Br)
 * [Command Line PPT](https://drive.google.com/open?id=0Bwqi6WFO--2mbEVvNFRzQXJUczg)
 * [Command Line Activity](https://drive.google.com/open?id=0Bwqi6WFO--2mVVpVbUpZQU5IeXc)
@@ -9,8 +10,9 @@ Resources and materials for Intro to Unix and Git workshop at the Data Science I
 * [GitHub Activity](https://drive.google.com/open?id=1tepwYlJpX6HN0p1I2TGgyFi5xC9Ovww5)
 
 ## Extra Resources
+* [Unix Commands Cheat Sheet](https://drive.google.com/open?id=0Bwqi6WFO--2mTThxekpCdkI0Ums)
 * [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here.wiki.git)
-* [Simkple Cheat Sheet for Git Command Line](http://rogerdudler.github.io/git-guide/)
+* [Simple Cheat Sheet for Git Command Line](http://rogerdudler.github.io/git-guide/)
 * [Interactive Cheat Sheet for Git Command Line](http://ndpsoftware.com/git-cheatsheet.html)
 * [Beginner Videos for GitHub](http://www.dataschool.io/git-and-github-videos-for-beginners/)
 
