@@ -1,6 +1,9 @@
 # GitIntro
 Resources and materials for Intro to Unix and Git workshop at the [Data Science Institute](https://ohsulibrary-datascienceinstitute.github.io/)
 
+## Class Survey (please complete)
+* [Pre-workshop Survey](https://docs.google.com/forms/d/e/1FAIpQLScRJFEiAGlIM0kXAJMmhHtjy-mlH6fHG9xpt46-ofnX_eHPmg/viewform?usp=sf_link)
+* [Post-workshop Survey](https://docs.google.com/forms/d/e/1FAIpQLSe3UhOFCQqcSyzZK01KT8epsvYtmK9NBHnDXDYbzmVMQmLcFg/viewform?usp=sf_link)
 ## Class Materials
 * [Syllabus](https://docs.google.com/document/d/1KDG-TYoJTSvvgyr94mIlMtB9HVZWxBMI4uuIiN6PFqI/edit?usp=sharing)
 * [Introduction PPT](https://drive.google.com/open?id=1PyJeh-_nbzZ9e99ZoCDgvAdukpnMP0Br)
