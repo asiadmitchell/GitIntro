@@ -2,10 +2,11 @@
 Resources and materials for Intro to Unix and Git workshop at the Data Science Institute
 
 ## Class Materials
-* [Command Line PPT]()
-* [Command Line Activity]()
-* [Version Control and GitHub PPT]()
-* [GitHub Activity]()
+* [Introduction PPT](https://drive.google.com/open?id=1PyJeh-_nbzZ9e99ZoCDgvAdukpnMP0Br)
+* [Command Line PPT](https://drive.google.com/open?id=0Bwqi6WFO--2mbEVvNFRzQXJUczg)
+* [Command Line Activity](https://drive.google.com/open?id=0Bwqi6WFO--2mVVpVbUpZQU5IeXc)
+* [Version Control and GitHub PPT](https://drive.google.com/open?id=1Hd-ufD1hV7wthw-qiBCzOxU-V7tDp_Kv)
+* [GitHub Activity](https://drive.google.com/open?id=1tepwYlJpX6HN0p1I2TGgyFi5xC9Ovww5)
 
 ## Extra Resources
 * [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here.wiki.git)
